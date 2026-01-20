@@ -75,6 +75,6 @@ Interest rates are well-aligned with credit risk levels
 **Bishnupriya Pattnaik**  
 Aspiring **Data Analyst** | Skilled in **Python, SQL, Power BI, Excel, and Data Visualization**  
 
- Connect with me on :[LinkedIn](https://www.linkedin.com/in/bishnupriya-pattnaik)  
+ Connect with me on :[Bishnupriya Pattnaik](https://www.linkedin.com/in/bishnupriya-pattnaik)  
 
 📊 Always exploring **data insights** and building meaningful **dashboards**.
