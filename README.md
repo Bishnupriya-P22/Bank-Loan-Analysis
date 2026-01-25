@@ -40,7 +40,7 @@ Loan performance evaluation using total payment analysis
 Interest rate and loan amount distribution analysis
 Time-based trend analysis using loan issue dates
 
-## Key Performance Indicators (KPIs)
+## 📊 Key Performance Indicators (KPIs)
 
 Total Loan Amount Disbursed: $435+ Million
 Average Loan Amount: $11,296
@@ -49,7 +49,7 @@ Average Annual Income: $69,644
 
 These KPIs provide insights into portfolio size, lending exposure, borrower affordability, and risk distribution.
 
-## Visual Insights & Observations
+## 📈 Visual Insights & Observations
 
 Loan Grade Distribution: Majority of loans fall under Grades B and C, indicating a balanced risk profile
 Employment Length: Most borrowers have 10+ years of employment, showing financial stability
