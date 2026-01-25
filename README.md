@@ -1,11 +1,11 @@
 # Bank-Loan-Analysis
-##🔹 Project Overview
+## Project Overview
 
 This project involves the analysis of a comprehensive Bank Loan Dataset to evaluate lending performance, borrower profiles, credit risk, and repayment behavior. The goal is to transform raw financial data into actionable insights that support informed lending decisions and effective risk management.
 
 The analysis covers 38,000+ loan records, providing a consolidated view of loan amounts, interest rates, income levels, credit grades, and repayment trends.
 
-##🔹 Purpose & Objectives
+## Purpose & Objectives
 
 The primary objectives of this project are to:
 Monitor loan disbursement trends
@@ -16,7 +16,7 @@ Assess repayment performance and portfolio health
 
 This analysis helps financial institutions optimize credit strategies and improve lending efficiency.
 
-##🔹 Tools & Technologies Used
+## Tools & Technologies Used
 
 Python – Data analysis and processing
 Pandas & NumPy – Data cleaning and aggregation
@@ -24,7 +24,7 @@ Matplotlib & Seaborn – Data visualization
 Jupyter Notebook – Interactive analysis environment
 Excel Dataset – Source data
 
-##🔹 Data Preparation
+## Data Preparation
 
 Removed duplicate records
 Handled missing values in employment and income fields
@@ -32,7 +32,7 @@ Standardized categorical variables (Grade, Term, Home Ownership)
 Converted date columns for time-based analysis
 Ensured numeric consistency for loan amount, income, interest rate, and DTI
 
-🔹 Key Features of Analysis
+## Key Features of Analysis
 
 Borrower profiling based on income, employment length, and home ownership
 Credit risk assessment using loan grades and sub-grades
@@ -40,7 +40,7 @@ Loan performance evaluation using total payment analysis
 Interest rate and loan amount distribution analysis
 Time-based trend analysis using loan issue dates
 
-##📊 Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 Total Loan Amount Disbursed: $435+ Million
 Average Loan Amount: $11,296
@@ -49,7 +49,7 @@ Average Annual Income: $69,644
 
 These KPIs provide insights into portfolio size, lending exposure, borrower affordability, and risk distribution.
 
-##📈 Visual Insights & Observations
+## Visual Insights & Observations
 
 Loan Grade Distribution: Majority of loans fall under Grades B and C, indicating a balanced risk profile
 Employment Length: Most borrowers have 10+ years of employment, showing financial stability
@@ -62,7 +62,7 @@ Loan Amount Distribution: Most loans range between $5,000 – $15,000, focusing 
 
 Indicates preference for shorter-term, lower-risk loans
 
-##🔹 Business Insights
+## Business Insights
 
 Strong loan portfolio with over $435M in funded loans
 Medium-risk borrowers (Grades A–C) dominate the portfolio
